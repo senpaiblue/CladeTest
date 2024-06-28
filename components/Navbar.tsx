@@ -46,7 +46,7 @@ const Navbar = () => {
           <DropdownMenuTrigger asChild>
             <div className="flex flex-row items-center justify-center">
             <Image
-              src="/AtlassianLogo.png"
+              src="/AtlassianLogo.svg"
               alt="Profile"
               width={40}
               height={40}
